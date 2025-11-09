@@ -12,7 +12,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background-color: #4CAF50;
+    background-color: #67C090;
     color: #fff!important;
     padding: 15px;
     display: flex;
@@ -84,6 +84,7 @@ body {
 .product-title {
     font-weight: bold;
     margin-bottom: 10px;
+    
 }
 
 .product-price {
@@ -98,7 +99,7 @@ body {
 }
 
 .product-button {
-    background-color: #e74c3c;
+    background-color: #67C090;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -108,7 +109,7 @@ body {
 }
 
 .product-button:hover {
-    background-color: #c0392b;
+    background-color: #67C090;
 }
 
 /* Pseudo-elements - Sale badge */

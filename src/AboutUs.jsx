@@ -7,24 +7,17 @@ function AboutUs() {
       {/* <h1 className="about-us-heading">About Us</h1> */}
       <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
       <p className="about-us-content">
-        At Paradise Nursery, we are passionate about bringing nature closer to you. Our mission is to provide a wide range of 
-        high-quality plants that not only enhance the beauty of your surroundings but also contribute to a healthier and 
-        more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
-        plant enthusiast.
+        Welcome to Paradise Nursery, your online gateway to lush, vibrant, and carefully cultivated plants that bring life to any space. 
+        Whether you’re building a relaxing home garden, adding greenery to your workspace, or searching for unique botanicals, we deliver high-quality plants directly to your door. 
+        With expert care, sustainable growing practices, and a passion for nature, we make plant shopping simple, fresh, and inspiring.
       </p>
       {/* <p className="plant_logo_left"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
       <p className="about-us-content">
-        Our team of experts is dedicated to ensuring that each plant meets our strict standards of quality and care. 
-        Whether you're a seasoned gardener or just starting your green journey, we're here to support you every step of 
-        the way. Feel free to explore our collection, ask questions, and let us help you find the perfect plant for your 
-        home or office.
+       At Paradise Nursery, every plant has a story — and we want yours to flourish. Our platform features detailed care guides, 
+       personalized recommendations, and a curated selection of indoor and outdoor species suited for all skill levels. 
+       From beginners to seasoned gardeners, everyone can find their perfect plant companion and grow a healthier, greener lifestyle with confidence.
       </p>
       {/* <p className="plant_logo_right"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
-
-      <p className="about-us-content">
-        Join us in our mission to create a greener, healthier world. Visit Paradise Nursery today and experience the 
-        beauty of nature right at your doorstep.
-      </p>
     </div>
   );
 }

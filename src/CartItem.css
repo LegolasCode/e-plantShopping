@@ -1,6 +1,8 @@
 /* CartItem.css */
 /* CartItem.css */
-
+.cart-container{
+  margin-bottom: 40px;
+}
 .cart-item {
   display: flex;
   border-bottom: 1px solid #ccc;
@@ -36,6 +38,12 @@
   display: flex;
   align-items: center;
   margin-bottom: 15px;
+  gap: 8px;
+}
+
+.cart-item-quantity button{
+  padding: 4px;
+  font-size: 18px;
 }
 
 .cart-item-button {
@@ -79,6 +87,7 @@
 .cart-item-button-inc{
   background-color: green;
 } */
+
 @media (max-width: 768px) {
   .cart-item {
     flex-direction: column; /* Change flex direction to stack items vertically */
